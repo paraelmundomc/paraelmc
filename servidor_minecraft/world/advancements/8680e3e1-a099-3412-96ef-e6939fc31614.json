@@ -23,6 +23,7 @@
       "minecraft:spider": "2025-02-13 06:01:25 +0000",
       "minecraft:husk": "2025-02-13 06:26:55 +0000",
       "minecraft:silverfish": "2025-02-13 06:00:34 +0000",
+      "minecraft:enderman": "2025-02-13 06:35:51 +0000",
       "minecraft:zombie": "2025-02-13 06:01:27 +0000"
     },
     "done": false
@@ -486,6 +487,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-13 06:11:22 +0000",
+      "cooked_mutton": "2025-02-13 06:33:44 +0000",
+      "apple": "2025-02-13 06:41:22 +0000",
       "bread": "2025-02-13 06:25:31 +0000",
       "salmon": "2025-02-13 06:07:24 +0000",
       "cooked_rabbit": "2025-02-13 06:00:14 +0000"
@@ -1380,9 +1383,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-13 06:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-13 06:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-13 06:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-13 06:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-13 06:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-13 06:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-02-13 06:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-13 06:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-13 06:37:51 +0000"
     },
     "done": true
   },

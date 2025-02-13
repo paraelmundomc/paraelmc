@@ -580,6 +580,7 @@
       "cooked_porkchop": "2025-02-13 06:01:29 +0000",
       "bread": "2025-02-13 05:58:11 +0000",
       "golden_carrot": "2025-02-13 05:58:20 +0000",
+      "enchanted_golden_apple": "2025-02-13 06:43:01 +0000",
       "mushroom_stew": "2025-02-13 06:01:08 +0000"
     },
     "done": false
@@ -610,6 +611,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-13 06:37:18 +0000",
       "minecraft:spider": "2025-02-13 06:02:24 +0000",
       "minecraft:creeper": "2025-02-13 06:02:36 +0000",
       "minecraft:cave_spider": "2025-02-13 06:08:52 +0000",
@@ -763,6 +765,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-02-13 06:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-13 06:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-02-13 06:13:38 +0000"
@@ -775,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-13 06:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-02-13 06:13:44 +0000"
@@ -784,6 +804,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2025-02-13 06:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-13 06:34:34 +0000"
     },
     "done": true
   },
@@ -913,6 +939,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-02-13 06:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-13 06:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-13 06:13:37 +0000"
@@ -1015,6 +1053,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-13 06:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-13 06:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-02-13 06:13:38 +0000"
@@ -1072,6 +1122,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2025-02-13 06:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-13 06:34:35 +0000"
     },
     "done": true
   },
@@ -1138,6 +1194,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-13 06:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-13 06:34:35 +0000"
     },
     "done": true
   },
