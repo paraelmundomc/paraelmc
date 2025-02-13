@@ -4,5 +4,23 @@
     "name": "mosquitomole",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8680e3e1-a099-3412-96ef-e6939fc31614",
+    "name": "juanchopepito",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a3324957-3eb5-3682-b394-035cf734354d",
+    "name": "gerumin3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6244cf2a-d0b7-3d63-93e7-5366fa2db0be",
+    "name": "Loan",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
